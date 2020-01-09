@@ -1,6 +1,11 @@
 body {
 	margin: 0;
 	font-family: "Helvetica"; sans-serif;
+	font-weight: lighter;
+}
+
+h1 {
+	font-size: 12px;
 }
 
 #logo {
